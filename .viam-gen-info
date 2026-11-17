@@ -1,0 +1,13 @@
+{
+  "module_name": "palletizer-102",
+  "visibility": "private",
+  "namespace": "boldcoralmech",
+  "language": "python",
+  "resource_type": "service",
+  "resource_subtype": "generic",
+  "model_name": "palletizer",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-11-16T09:44:11.263609454Z",
+  "module_readme_link": "README.md"
+}
