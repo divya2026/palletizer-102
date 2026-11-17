@@ -10,7 +10,7 @@
   ],
 
   "visibility": "private",
-  "url": "",
+  "url": "https://github.com/divya2026/palletizer-102.git",
   "description": "Modular generic service: palletizer",
   "markdown_link": "README.md",
   "entrypoint": "dist/main",
